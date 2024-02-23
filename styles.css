@@ -1,0 +1,15 @@
+/* styles.css */
+
+* {
+    background-color: lightpink;
+    color: white;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    text-align: center;
+}
+
