@@ -1,8 +1,8 @@
 /* styles.css */
 
 * {
-    background-color: lightpink;
-    color: white;
+    background-color: lightgrey;
+    color: black;
 }
 
 body {
@@ -12,4 +12,15 @@ body {
 h1 {
     text-align: center;
 }
+
+/* lists and their elements are default display:block */
+.recipe-list {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+}
+
+
 
